@@ -16,7 +16,7 @@
 
  position:relative;left:auto;
  width: 100%; 
-  background:;
+ 
 }
 .cx2 {
 	list-style: none;
@@ -29,8 +29,8 @@ color: azure;
 	float: right;
 	margin-right: 12px;
 	margin-top:-12px;
-	position: relative;left: 
-	}
+	position: relative left;
+}
 
 
 .menu{
@@ -40,12 +40,11 @@ color: azure;
    color: yellow;
    font-family:Arial;
    font-size: 25px;
-   position: relative;left: 245px;
-   
+   position: relative;left: 245px; 
 }
 
 
-.menu:hover{
+.menu:hover {
    transition: 0.5s all;
    background: #5f9ea0;
    padding:5px;
@@ -56,12 +55,10 @@ color: azure;
 
 
 .texto {
-    
-    background: ;
-    font-family:Arial; text-align:center; color: #CCFF00; 
-
-       
- } 
+    font-family:Arial;
+     text-align:center;
+      color: #CCFF00; 
+} 
 
 
 
@@ -69,12 +66,15 @@ color: azure;
 footer{
    width:100%;
    background: blue;
-   position:relative; top:230px;
+   position:relative; 
+   top:230px;
 }
 
 h2{
-  font-family: Arial;font-size:15px; color:white;
-text-align:center;
+  font-family: Arial;
+  font-size:15px;
+  color:white;
+  text-align:center;
 }
 
 #cx2{
@@ -85,18 +85,24 @@ text-align:center;
 	
 }
 
-p{font-family:Arial; font-size:16pt;
-
+p{font-family:Arial;
+  font-size:16pt;
 }
 
-h3{font-family:Arial; font-size:20pt;color: green;
-
+h3{font-family:Arial;
+    font-size:20pt;
+    color: green;
 }
 
-h4{font-family:Arial; font-size:30pt;color: blue;
-
+h4{font-family:Arial;
+    font-size:30pt;
+    color: blue;
 }
 
-.titulo{font-family:Verdana; font-size:25pt;color: red;
-
+.titulo{font-family:Verdana;
+    font-size:25pt;
+    color: rgb(255, 0, 0);
+}
+#home{
+   
 }
