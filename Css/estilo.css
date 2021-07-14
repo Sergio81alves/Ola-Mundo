@@ -1,0 +1,102 @@
+ body {
+     background:black ;
+
+    
+}
+
+.tudo{ 
+     background:midnightblue ;
+     margin: 0px auto;
+     width: 1000px;
+     padding: 20px;
+}
+
+
+.cx1{
+
+ position:relative;left:auto;
+ width: 100%; 
+  background:;
+}
+.cx2 {
+	list-style: none;
+position: absolute;
+top:460px;
+right: 150px;
+color: azure;
+}
+.busca {
+	float: right;
+	margin-right: 12px;
+	margin-top:-12px;
+	position: relative;left: 
+	}
+
+
+.menu{
+   transition: 0.5s all;
+   background: midnightblue;
+   padding:2px;
+   color: yellow;
+   font-family:Arial;
+   font-size: 25px;
+   position: relative;left: 245px;
+   
+}
+
+
+.menu:hover{
+   transition: 0.5s all;
+   background: #5f9ea0;
+   padding:5px;
+   color: red;
+}
+
+
+
+
+.texto {
+    
+    background: ;
+    font-family:Arial; text-align:center; color: #CCFF00; 
+
+       
+ } 
+
+
+
+
+footer{
+   width:100%;
+   background: blue;
+   position:relative; top:230px;
+}
+
+h2{
+  font-family: Arial;font-size:15px; color:white;
+text-align:center;
+}
+
+#cx2{
+    Width: 800px; 
+    background: mediumblue;
+    position:relative;
+	padding:80px;
+	
+}
+
+p{font-family:Arial; font-size:16pt;
+
+}
+
+h3{font-family:Arial; font-size:20pt;color: green;
+
+}
+
+h4{font-family:Arial; font-size:30pt;color: blue;
+
+}
+
+.titulo{font-family:Verdana; font-size:25pt;color: red;
+
+}
