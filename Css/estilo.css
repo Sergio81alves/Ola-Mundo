@@ -1,6 +1,6 @@
  body {
      background:black ;
-
+   
     
 }
 
@@ -14,23 +14,28 @@
 
 .cx1{
 
- position:relative;left:auto;
+ position:relative;
+ left:auto;
  width: 100%; 
  
 }
-.cx2 {
-	list-style: none;
-position: absolute;
-top:460px;
-right: 150px;
+ .txt {
+   color: azure;
+   right: 5px;
+   top: 20px;
+   position:relative;
+}
+.txt p {
+   font-size: 30px;
+}
+#cx2 {
+
+text-align: center;
+display: table-cell;
+vertical-align: middle;
 color: azure;
 }
-.busca {
-	float: right;
-	margin-right: 12px;
-	margin-top:-12px;
-	position: relative left;
-}
+
 
 
 .menu{
@@ -63,12 +68,7 @@ color: azure;
 
 
 
-footer{
-   width:100%;
-   background: blue;
-   position:relative; 
-   top:230px;
-}
+
 
 h2{
   font-family: Arial;
@@ -102,7 +102,4 @@ h4{font-family:Arial;
 .titulo{font-family:Verdana;
     font-size:25pt;
     color: rgb(255, 0, 0);
-}
-#home{
-   
 }
