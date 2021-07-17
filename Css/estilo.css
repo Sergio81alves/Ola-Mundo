@@ -40,7 +40,7 @@ color: azure;
 
 .menu{
    transition: 0.5s all;
-   background: midnightblue;
+   background: rgb(104, 104, 221);
    padding:2px;
    color: yellow;
    font-family:Arial;
@@ -55,7 +55,12 @@ color: azure;
    padding:5px;
    color: red;
 }
-
+#home .home a,
+#contato .contato a,
+#quem .quem a{
+  background-color: blue;
+  color: #CCFF00;
+}
 
 
 
